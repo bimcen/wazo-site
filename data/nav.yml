@@ -6,10 +6,10 @@
   name: "Wazo Box"
   description: "Where an idea emerges"
   path: "/box.html"
-# -
-  # name: "Wazo Dinos"
-  # description: "People, who make changes"
-  # path: "/candidate.html"
+-
+  name: "Wazo Dinos"
+  description: "People, who make changes"
+  path: "/candidates.html"
 -
   name: "Apply"
   description: "Join first alpha"
