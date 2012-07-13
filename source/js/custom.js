@@ -1,3 +1,5 @@
+//= require './plugins/pixastic.custom.js'
+
 // If JavaScript is enabled remove 'no-js' class and give 'js' class
 jQuery('html').removeClass('no-js').addClass('js');
 
