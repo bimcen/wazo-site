@@ -10,3 +10,16 @@ img#not_found {
   display:block;
   margin: 0 auto;
 }
+.team-member .content {
+  padding:0 0 0 30px;
+}
+
+.team-member .rank{
+  position: absolute;
+  width: 25px;
+  height: 25px;
+  border: 5px solid whiteSmoke;
+  line-height: 27px;
+  -webkit-border-radius: 25px;
+  border-radius: 25px;
+}
