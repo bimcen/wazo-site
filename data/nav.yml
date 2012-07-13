@@ -3,13 +3,14 @@
   description: "Elite, Unique, Innovative"
   path: "/about.html"
 -
-  name: "Hire"
-  description: "Where talents meet"
-  path: "/hiring.html"
-  sub_pages:
-    -
-      name: "Roles"
-      path: "/hiring.html"
-    -
-      name: "Apply"
-      path: "/apply.html"
+  name: "Wazo Box"
+  description: "Where an idea emerges"
+  path: "/box.html"
+# -
+  # name: "Wazo Dinos"
+  # description: "People, who make changes"
+  # path: "/candidate.html"
+-
+  name: "Apply"
+  description: "Join first alpha"
+  path: "/apply.html"
