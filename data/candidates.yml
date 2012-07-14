@@ -1,27 +1,27 @@
 -
-  name: "丁君宜 Nancy Ding"
-  topic: "Volunteering across border"
-  img: "dingjunyi.png"
-  rank: 1
--
   name: "陈雅鸥Ashley"
   img: "chenyaou.png"
   topic: "漫画教学对自己的影响，对福利院儿童的影响"
-  rank: 2
+  rank: 1
 -
   name: "张鹏 Vance"
   img: "zhangpeng.png"
   topic: "独立文化为什么存在"
-  rank: 3
+  rank: 2
 -
   name: "胡晓 Hu Xiao"
   topic: "旅行经历与O2O互助旅行"
   img: "huxiao.png"
-  rank: 4
+  rank: 3
 -
   name: "Alan Hua"
   topic: 
   img: 
+  rank: 4
+-
+  name: "丁君宜 Nancy Ding"
+  topic: "Volunteering across border"
+  img: "dingjunyi.png"
   rank: 5
 -
   name: "王寅"
@@ -66,7 +66,7 @@
 -
   name: "Justin"
   topic: 
-  img: 
+  img: "justin.png"
   rank: 14
 -
   name: "李可佳Ethan Li"
