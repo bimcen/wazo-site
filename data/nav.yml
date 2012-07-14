@@ -9,7 +9,7 @@
 -
   name: "Wazo Dinos"
   description: "People, who make changes"
-  path: "/candidates.html"
+  path: "/candidates_list.html"
 -
   name: "Apply"
   description: "Join first alpha"

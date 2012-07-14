@@ -9,14 +9,14 @@
   topic: "独立文化为什么存在"
   rank: 2
 -
-  name: "胡晓 Hu Xiao"
-  topic: "旅行经历与O2O互助旅行"
-  img: "huxiao.png"
+  name: "Alan Hua"
+  topic: "一个理想主义者的自白"
+  img: "huahan.png"
   rank: 3
 -
-  name: "Alan Hua"
-  topic: 
-  img: 
+  name: "沈军杰Simon"
+  img: "simon.png"
+  topic: "被猫咬后担心得狂犬病的经历和研究"
   rank: 4
 -
   name: "丁君宜 Nancy Ding"
@@ -29,9 +29,9 @@
   topic: "科研资源共享平台- 科研者的SNS"
   rank: 6
 -
-  name: "沈军杰Simon"
-  img: "simon.png"
-  topic: "被猫咬后担心得狂犬病的经历和研究"
+  name: "胡晓 Hu Xiao"
+  topic: "旅行经历与O2O互助旅行"
+  img: "huxiao.png"
   rank: 7
 -
   name: "韦春晓"
@@ -41,27 +41,27 @@
 -
   name: "Peter Yao"
   topic: 
-  img: 
+  img: "yaokunjie.png"
   rank: 9
 -
-  name: "Some One"
+  name: "Zeed"
   topic: 
-  img: 
+  img: "zeed.png"
   rank: 10
--
-  name: "Ying"
-  topic: "Tea Culture"
-  img: 
-  rank: 11
--
-  name: "Peng Ming"
-  topic: "关于法律的一些小想法"
-  img: "yupengming.png"
-  rank: 12
 -
   name: "张瞻瞻 Zhang Zhanzhan"
   topic: "自然与我" 
   img: "zhangzhanzhan.png"
+  rank: 11
+-
+  name: "Ying"
+  topic: "Tea Culture"
+  img: "zhuyin.png"
+  rank: 12
+-
+  name: "Peng Ming"
+  topic: "关于法律的一些小想法"
+  img: "yupengming.png"
   rank: 13
 -
   name: "Justin"
@@ -109,8 +109,8 @@
   img: 
   rank: 22
 -
-  name: "朱颖 Zhu Yin"
-  img: "zhuyin.png"
+  name: "朱琳 Zhu lin"
+  img: "zhulin.png"
   topic: "关于环境回收的三个点子"
   rank: 23
 -
