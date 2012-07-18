@@ -1,7 +1,7 @@
 -
   name: "陈雅鸥Ashley"
   img: "chenyaou.png"
-  topic: "漫画教学对自己的影响，对福利院儿童的影响"
+  topic: "漫画窥人生"
   rank: 1
 -
   name: "张鹏 Vance"
@@ -40,12 +40,12 @@
   rank: 8
 -
   name: "Peter Yao"
-  topic: 
+  topic: "一个创作者的自慰"
   img: "yaokunjie.png"
   rank: 9
 -
   name: "Zeed"
-  topic: 
+  topic: "模道何在" 
   img: "zeed.png"
   rank: 10
 -
@@ -55,7 +55,7 @@
   rank: 11
 -
   name: "Ying"
-  topic: "Tea Culture"
+  topic: "以茶会友"
   img: "zhuyin.png"
   rank: 12
 -
@@ -65,7 +65,7 @@
   rank: 13
 -
   name: "Justin"
-  topic: 
+  topic: "PIC+NOTES"
   img: "justin.png"
   rank: 14
 -
@@ -74,39 +74,39 @@
   img: "likejia.png"
   rank: 15
 -
-  name: "Steven Yang"
-  topic: "色"
-  img: "yangchenyun.png"
+  name: "王卷舒"
+  img: "wangjuanshu.png"
+  topic: "每月一瓶进口红酒送到家"
   rank: 16
 -
-  name: "邵斌彬 Shao Binbin"
-  topic: "厨房里的那些事儿"
-  img: "shaobinbin.png"
+  name: "小林润一 Kobayashi"
+  topic: "一个无用，追求心的安心，与用心对人的普通人."
+  img: "kobayashi.png"
   rank: 17
+-
+  name: "邵斌彬 Shao Binbin"
+  topic: "从厨房到卧室"
+  img: "shaobinbin.png"
+  rank: 18
 -
   name: "代安琪 Dai Anqi"
   topic: "人人都有一颗吐槽的心"
   img: "daianqi.png"
-  rank: 18
--
-  name: "王卷舒"
-  img: "wangjuanshu.png"
-  topic: "每月一瓶进口红酒送到家"
   rank: 19
 -
-  name: "史钊磊 Henry Shi"
-  topic: 
-  img: 
+  name: "史钊垒 Henry Shi"
+  topic: "关于教育的一点热情"
+  img: "shizhaolei.png"
   rank: 20
 -
   name: "王一萌 Alex Wang"
-  topic: 
-  img: 
+  topic: "一份给女朋友的异地恋创意计划"
+  img: "wangyimeng.png"
   rank: 21
 -
-  name: "Chubai's Bro"
-  topic: 
-  img: 
+  name: "孙涛"
+  topic: "有价值东西不应该沉沦" 
+  img: "suntao.png"
   rank: 22
 -
   name: "朱琳 Zhu lin"
@@ -114,12 +114,17 @@
   topic: "关于环境回收的三个点子"
   rank: 23
 -
-  name: "小林润一 Kobayashi"
-  topic: "一个无用，追求心的安心，与用心对人的普通人."
-  img: "kobayashi.png"
+  name: "Steven Yang"
+  topic: "A Vision Color Dictionary"
+  img: "yangchenyun.png"
   rank: 24
 -
-  name: "陈露 Chen Lu"
-  topic: 
-  img: 
+  name: "李艾军 Li Aijun"
+  topic: "设计无圈"
+  img: 'liaijun.png'
   rank: 25
+-
+  name: "陈露 Chen Lu"
+  topic: "发现城市之美"
+  img: 'chenlu.png'
+  rank: 26
