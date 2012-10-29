@@ -13,10 +13,10 @@ set :application, "wazopartners"
 
 set :domain, "www.wazopartners.com wazopartners.com"
 
-# maxwell - 42.121.82.106, aliyun,hangzhou
-server 'maxwell', :web, :app, :db, :primary => true
+# maxwell - 42.121.119.155, aliyun,hangzhou
+server '42.121.119.155:1982', :web, :app, :db, :primary => true
 
-set :user, 'deploy'
+set :user, 'deployer'
 set :deploy_to, "/home/#{user}/sites/#{application}-production"
 
 namespace :deploy do
